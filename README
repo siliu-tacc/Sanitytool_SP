@@ -1,0 +1,19 @@
+This is the sanitytool developed by Texas Advanced Computing Center.
+
+Author:
+Si Liu (siliu@tacc.utexas.edu)
+Robert McLay (mclay@tacc.utexas.edu)
+
+Version:
+1.0.1
+
+Current tests:
+  1: SSH Permission Test:
+  2: SSH Key Test:
+  3: Report Standard Variables
+  4: Whether blocked from submitting jobs on the system (Stampede Only)
+  5: Check my allocation balance (Not on Yellowstone):
+  6: Check quota under users' home and work
+  7: Check Module environment
+  8: Check compilers
+  9: Check scheduler commands
